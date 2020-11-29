@@ -1,0 +1,10 @@
+{
+    "migration": {
+        "repo_names": ["repo_name01", "repo_name02", "repo_name03", "repo_name04"],
+        "repo_renames": ["repo_name_new01", "repo_name_new02", "repo_name_new03", "repo_name_new04"],
+        "bitbucketproject": "T2B",
+        "azureproject": "Business IT",
+        "bitbucket_username": "marcgarc",
+        "bitbucket_pass": "c3NPZEo0djAhIQo="
+    }
+}
